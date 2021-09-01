@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(32,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(63,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(81,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(82,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(171,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(253,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(259,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(265,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(285,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(290,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(295,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(613,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(613,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(621,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(621,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(626,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\source\ReposXonix\Xonix\Xonix\Main.cpp(626,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Xonix.vcxproj -> C:\Users\DELL\source\ReposXonix\Xonix\Debug\Xonix.exe
